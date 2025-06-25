@@ -37,7 +37,8 @@
 |-----------|----------------|
 | [internship-project](https://github.com/kuro-shiv/internship-project) | Dashboard for data analytics and reporting tasks built for internship requirements. |
 | [Language-Codes](https://github.com/kuro-shiv/Language-Codes) | Practical code examples, logic building exercises, and college/internship problems. |
-| [Automation Scripts](https://github.com/kuro-shiv?tab=repositories&q=automation&type=&language=) | Web automation using Selenium, including real-time API validation. |
+| [Web-development](https://github.com/kuro-shiv/Web_Devlopment) | Collection of beginner to intermediate web projects using HTML, CSS, JavaScript, and frameworks. |
+| [Automation Script](https://github.com/kuro-shiv/internship-project/tree/main/Latikor/Test) | Selenium-based automation script for web interaction, API validation, and email reporting. |
 
 ---
 
