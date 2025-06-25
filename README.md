@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **open-source data projects, productivity tools, and Python-based web automation**  
 - 🤔 I’m looking for help with **optimizing Python workflows and Git best practices**  
 - 💬 Ask me about **Python, Jupyter, Selenium, automation, or building dashboards**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivam-dubey-74b3b3204/) | [Instagram]([https://aigen023.blogspot.com](https://www.instagram.com/ankit_san023/))  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivam-dubey-74b3b3204/) | [Instagram]([https://aigen023.blogspot.com](https://www.instagram.com/ankit_san023/])  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I make stories 🎧 telling video 📺 on [Kuro's Show](https://www.youtube.com/@kuro_ank023)
 
