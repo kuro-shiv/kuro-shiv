@@ -43,9 +43,11 @@
 ---
 
 ### 🎥 Content Creator  
-Check out my YouTube channel 🎬 **[Kuro's Show](https://www.youtube.com/@kuro_ank023)** – coding walkthroughs, tech explainers, and fun short projects with a lofi aesthetic.  
+🎬 Check out my YouTube channel: **[Kuro's Show](https://www.youtube.com/@kuro_ank023)**  
+Short storytelling videos inspired by mythology, Panchtantra tales, traditions, and timeless folk stories – made for pure audience enjoyment with a lofi touch.
 
-And I write at 📝 **[AI Gen Blog](https://aigen023.blogspot.com)** – simple, clear, and beginner-friendly Python + AI concepts.
+📝 I also write at **[AI Gen Blog](https://aigen023.blogspot.com)**  
+Beginner-friendly posts on Python, AI concepts, and practical coding tips – made simple and clear.
 
 ---
 
