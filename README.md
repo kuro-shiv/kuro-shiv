@@ -63,8 +63,14 @@ Beginner-friendly posts on Python, AI concepts, and practical coding tips – ma
 ### 📫 Let’s Connect!
 
 <p align="center">
+  <a href="mailto:dubeysk2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/shivam-dubey-74b3b3204/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/ankit_san023/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://aigen023.blogspot.com" target="_blank">
     <img src="https://img.shields.io/badge/-Blog-orange?style=for-the-badge&logo=blogger&logoColor=white" />
