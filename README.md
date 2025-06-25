@@ -27,7 +27,7 @@
 
 | 💻 Languages     | 🌐 Web Dev       | 📊 Data & Tools      | ⚙️ Platforms / Others    |
 |------------------|------------------|-----------------------|-------------------------|
-| Python, C, HTML, CSS, JS | Flask, Bootstrap, WordPress | Pandas, NumPy, Matplotlib, Excel | Jupyter, Selenium, GitHub, VS Code, AWS Basics |
+| Python |  HTML, CSS, JS | Pandas, NumPy, Matplotlib, Excel | Jupyter, Selenium, GitHub, VS Code |
 
 ---
 
