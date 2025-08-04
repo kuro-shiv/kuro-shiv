@@ -87,7 +87,7 @@ Beginner-friendly posts on Python, AI concepts, and practical coding tips – ma
 
 ### 🧠 Currently Exploring
 
-- 📡 REST APIs and backend integration  
+- 📡 REST APIs and backend integrati  
 - 🧹 Code cleanup, modularity, and performance in Python  
 - 📈 Real-time dashboards using data-driven design  
 - 🌐 Web scraping, automation, and Selenium best practices  
