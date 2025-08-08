@@ -51,7 +51,7 @@ Beginner-friendly posts on Python, AI concepts, and practical coding tips – ma
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stat
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kuro-shiv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
