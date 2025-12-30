@@ -53,8 +53,18 @@ Beginner-friendly posts on Python, AI concepts, and practical coding tips – ma
 
 ### 📊 GitHub Stats
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuro-shiv&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kuro-shiv&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuro-shiv&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuro-shiv&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
