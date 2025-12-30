@@ -67,10 +67,6 @@ Beginner-friendly posts on Python, AI concepts, and practical coding tips – ma
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuro-shiv&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kuro-shiv&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 📫 Let’s Connect!
